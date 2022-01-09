@@ -2215,7 +2215,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/OnyxCash_Chat",
+                href: "https://t.me/onyxcash_official",
             },
             // {
             //   label: "Bahasa Indonesia",
@@ -2259,7 +2259,7 @@ var socials = [
             // },
             {
                 label: "Announcements",
-                href: "https://t.me/OnyxCash",
+                href: "https://t.me/onyxcash_announcements",
             },
             // {
             //    label: "Price Bot",
